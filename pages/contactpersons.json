@@ -1,0 +1,20 @@
+ {
+ "contacts": [
+    {
+      "image": "/images/Sebastiaan.jfif",
+      "title": "Dr. Sebastiaan Rieter",
+      "description": "Docent",
+      "phone": "06 86 81 44 19",
+      "email": "s.m.rieter@hhs.nl",
+      "address": "Bleiswijkseweg 37, 2712 PB Zoetermeer"
+    },
+    {
+      "image": "/images/weIt.png",
+      "title": "We-It",
+      "description": "Opdrachtgevers",
+      "phone": "070 369 7509",
+      "email": "we-it@hhs.nl",
+      "address": "Gildeweg 12, 2632 BA Nootdorp"
+    }
+]
+}

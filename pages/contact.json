@@ -1,0 +1,11 @@
+{
+  "heroTitle": "Contact",
+  "heroSubtitle": "",
+  "heroDescription": "Neem contact met ons op of bezoek onze locaties.",
+  "heroImage": "/assets/img/dif.jpg",
+  "locationHeading": "Onze locatie",
+  "contactHeading": "Contactpersonen",
+  "phoneLabel": "Telefoon",
+  "emailLabel": "Email",
+  "addressLabel": "Adres"
+}
