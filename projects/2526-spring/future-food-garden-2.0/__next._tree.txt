@@ -1,0 +1,5 @@
+:HL["/Github-Pages/_next/static/chunks/f3884c75c99758bf.css","style"]
+:HL["/Github-Pages/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Github-Pages/_next/static/media/arial_black-s.p.44877f96.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/Github-Pages/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"HIEoyUJFVRCjKy9ybmZqn","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"projects","paramType":null,"paramKey":"projects","hasRuntimePrefetch":false,"slots":{"children":{"name":"term","paramType":"d","paramKey":"2526-spring","hasRuntimePrefetch":false,"slots":{"children":{"name":"project","paramType":"d","paramKey":"future-food-garden-2.0","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

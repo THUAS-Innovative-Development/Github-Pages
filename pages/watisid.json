@@ -1,0 +1,75 @@
+{
+  "comparison": {
+    "title": "Niet stampen, maar doen",
+    "lead": "Bij ID zit je niet in de collegebanken. Je wordt behandeld als een junior professional.",
+    "oldSchool": {
+      "title": "Standaard onderwijs",
+      "items": [
+        "Docent vertelt, jij luistert",
+        "Tentamens over theorie uit een boek",
+        "Oefenen met verzonnen casussen",
+        "Vaste roosters en verplichte uren"
+      ]
+    },
+    "newSchool": {
+      "badge": "Jouw werkwijze",
+      "title": "Bij Innovative Development",
+      "items": [
+        "Jij onderzoekt wat je moet leren",
+        "Beoordeling op basis van eindproducten",
+        "Echte problemen van bedrijven",
+        "Jij plant je eigen tijd in teams"
+      ]
+    }
+  },
+  "profile": {
+    "title": "Het ID Profiel",
+    "lead": "Je wordt meer dan alleen een programmeur. Je ontwikkelt een breed profiel.",
+    "skills": [
+      {
+        "iconKey": "terminal",
+        "title": "Techniek",
+        "desc": "Je bouwt werkende oplossingen. Of het nu een app, website, database of IoT-systeem is. Jij kiest de techniek die past."
+      },
+      {
+        "iconKey": "search",
+        "title": "Onderzoek",
+        "desc": "Je leert interviewen en observeren. Je bouwt pas een oplossing als je zeker weet dat het probleem écht bestaat."
+      },
+      {
+        "iconKey": "penTool",
+        "title": "Design",
+        "desc": "Je leert interfaces (UI) ontwerpen en nadenken over gebruiksgemak (UX). Je maakt producten die mensen willen gebruiken."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Hoe ziet een semester eruit?",
+    "title": "Van wicked probleem tot werkend prototype",
+    "lead": "In 20 weken doorloop je het hele proces.",
+    "steps": [
+      {
+        "title": "De Vraag",
+        "desc": "Een bedrijf pitcht een probleem. Jij vormt een team."
+      },
+      {
+        "title": "Deep Dive",
+        "desc": "Je gaat naar buiten. Gebruikers interviewen en observeren."
+      },
+      {
+        "title": "Ideation",
+        "desc": "Brainstormen & Prototypen. Wat is de beste oplossing?"
+      },
+      {
+        "title": "Delivery",
+        "desc": "Bouwen, testen en het eindproduct opleveren."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Klaar voor de uitdaging?",
+    "lead": "Innovative Development vraagt initiatief, maar geeft je vrijheid terug.",
+    "buttonText": "Bekijk de opleiding",
+    "link": "https://www.dehaagsehogeschool.nl/opleidingen/hbo-bachelor/hbo-ict-innovative-development"
+  }
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Map Placeholder</title>
+  <desc id="desc">Placeholder map card with zones and points.</desc>
+  <rect width="1200" height="700" fill="#eef2f7"/>
+  <rect x="80" y="70" width="1040" height="560" rx="30" fill="#ffffff" stroke="#d1d5db"/>
+  <path d="M180 180 H520 V300 H180 Z" fill="#dbeafe"/>
+  <path d="M540 180 H940 V300 H540 Z" fill="#dcfce7"/>
+  <path d="M180 320 H460 V520 H180 Z" fill="#fef3c7"/>
+  <path d="M480 320 H940 V520 H480 Z" fill="#fde68a"/>
+  <circle cx="320" cy="240" r="18" fill="#223343"/>
+  <circle cx="760" cy="240" r="18" fill="#223343"/>
+  <circle cx="300" cy="420" r="18" fill="#9ea700"/>
+  <circle cx="700" cy="420" r="18" fill="#9ea700"/>
+  <circle cx="860" cy="450" r="18" fill="#223343"/>
+  <text x="120" y="130" fill="#223343" font-family="Arial, sans-serif" font-size="40" font-weight="700">Zone Overview</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Campus Air Quality Explorer Hero Placeholder</title>
+  <desc id="desc">Placeholder illustration with geometric shapes and headline text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#223343"/>
+      <stop offset="1" stop-color="#3f607f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <circle cx="190" cy="130" r="80" fill="#9ea700" opacity="0.9"/>
+  <circle cx="1020" cy="530" r="110" fill="#9ea700" opacity="0.35"/>
+  <rect x="120" y="180" width="960" height="380" rx="28" fill="#ffffff" opacity="0.93"/>
+  <text x="160" y="300" fill="#223343" font-family="Arial, sans-serif" font-size="48" font-weight="700">Campus Air Quality Explorer</text>
+  <text x="160" y="360" fill="#4b5563" font-family="Arial, sans-serif" font-size="28">Placeholder visual for detail page testing</text>
+</svg>

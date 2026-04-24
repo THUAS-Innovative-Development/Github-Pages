@@ -1,0 +1,15 @@
+{
+  "project_name": "Smart Kitchen 2.0",
+  "catch_sentence": "Digitale checklist en AI-ondersteuning voor snellere, vollediger keukenadviezen.",
+  "cover_mode": "photo",
+  "members": [
+    "Jeroen Ravensbergen",
+    "Lior Lindhout",
+    "Lars Juffermans",
+    "Alvaro Hurtado Groenewegen",
+    "Joey Quandt"
+  ],
+  "coach": "Hans Middelkoop",
+  "organiser": "Pronk Ergo Woon+",
+  "image": "./assets/Pronk_Ergo_Cover.png"
+}

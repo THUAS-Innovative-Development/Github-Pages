@@ -1,0 +1,9 @@
+{
+    "bannerTitle": "Projecten",
+    "bannerSubtitle": "",
+    "bannerDescription": "Projecten gemaakt door onze studenten.",
+    "bannerImage": "./assets/img/More-EXPO-Stand.jpg",
+
+    "noProjectsMessage": "Geen projecten gevonden.",
+    "readMore": "Lees meer"
+}

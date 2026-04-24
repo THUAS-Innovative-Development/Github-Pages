@@ -1,0 +1,9 @@
+{
+  "project_name": "Fidelsec - Forensics ",
+  "members": ["Oscar Allen " , "Stephan Duivelshof " , "Jessie Huijsing " , "Thijmen Bout " , "Yuri Timmers " ,"Sawanthi Mooijman "],
+  "coach": "Arianne Luik-Knoester",
+  "organiser": "Fidelsec",
+  "image": "./assets/fidelsec-160px-optimized-1.svg",
+  "cover_mode": "logo",
+  "video": "https://www.youtube.com/embed/y5wkL5wChAw"
+}

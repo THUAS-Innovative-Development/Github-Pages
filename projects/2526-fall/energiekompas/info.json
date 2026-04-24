@@ -1,0 +1,10 @@
+{
+  "project_name": "Energiekompas",
+  "members": ["Erik Akerboom", "Danilo Saiu", "Niels van Schaik", "Thijmen Bout", "Vincent de Jager"],
+  "coach": "Sebastiaan Rieter",
+  "organiser": "Studentenproject",
+  "image": "./assets/Energiekompas.png",
+  "cover_mode": "logo",
+  "video": "https://www.youtube.com/embed/OlnhxGLWWRQ"
+}
+ 

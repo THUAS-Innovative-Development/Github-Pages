@@ -1,0 +1,20 @@
+ {
+ "contacts": [
+    {
+      "image": "/images/Sebastiaan.jfif",
+      "title": "Sebastiaan Rieter",
+      "description": "Docent",
+      "phone": "06 86 81 44 19",
+      "email": "s.m.rieter@hhs.nl",
+      "address": "Bleiswijkseweg 37e, 2712 PB Zoetermeer"
+    },
+    {
+      "image": "/images/match_it_hhs_logo.jpeg",
+      "title": "Match-IT",
+      "description": "Contactpersoon voor bedrijven",
+      "phone": "070 369 7509",
+      "email": "match-it@hhs.nl",
+      "address": "Bleiswijkseweg 37e, 2712 PB Zoetermeer"
+    }
+]
+}

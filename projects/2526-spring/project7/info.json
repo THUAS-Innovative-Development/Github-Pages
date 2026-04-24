@@ -1,0 +1,18 @@
+{
+  "project_name": "Campus Air Quality Explorer",
+  "catch_sentence": "Realtime inzicht in luchtkwaliteit voor gezondere leer- en werkomgevingen.",
+  "cover_mode": "photo",
+  "members": [
+    "Liam de Vries",
+    "Noa Bakker",
+    "Mila van Dijk",
+    "Daan Visser",
+    "Sara Kuiper",
+    "Yara Bos",
+    "Finn Jacobs"
+  ],
+  "coach": "Dr. Eva Jansen",
+  "organiser": "Gemeente Den Haag",
+  "image": "./assets/placeholder-hero.svg",
+  "video": "https://www.youtube.com/embed/y5wkL5wChAw"
+}

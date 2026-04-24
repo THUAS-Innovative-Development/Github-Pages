@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Dashboard Placeholder</title>
+  <desc id="desc">Placeholder dashboard with cards and simple chart lines.</desc>
+  <rect width="1200" height="700" fill="#f3f4f6"/>
+  <rect x="60" y="60" width="1080" height="580" rx="24" fill="#ffffff" stroke="#d1d5db"/>
+  <rect x="100" y="110" width="250" height="120" rx="14" fill="#223343"/>
+  <rect x="375" y="110" width="250" height="120" rx="14" fill="#334b61"/>
+  <rect x="650" y="110" width="250" height="120" rx="14" fill="#466687"/>
+  <rect x="925" y="110" width="175" height="120" rx="14" fill="#9ea700"/>
+  <rect x="100" y="270" width="700" height="320" rx="14" fill="#f8fafc" stroke="#d1d5db"/>
+  <rect x="835" y="270" width="265" height="320" rx="14" fill="#f8fafc" stroke="#d1d5db"/>
+  <polyline points="140,520 220,430 300,460 380,350 460,390 540,320 620,360 700,300 760,330"
+    fill="none" stroke="#223343" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="140,550 220,510 300,530 380,500 460,540 540,500 620,515 700,485 760,500"
+    fill="none" stroke="#9ea700" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "name": "Innovative Development Expo",
+  "date": "23 januari 2026",
+  "description": "Studenten presenteren hun afgewerkte projecten aan opdrachtgevers, docenten en medestudenten.",
+  "location": "De Haagse Hogeschool, Den Haag",
+  "organiser": "De Haagse Hogeschool",
+  "image": "https://picsum.photos/seed/idexpo/800/600",
+  "videos": [
+    "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "https://www.youtube.com/embed/9bZkp7q19f0"
+  ]
+}
